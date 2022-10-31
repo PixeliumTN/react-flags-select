@@ -12,6 +12,7 @@
     "check-types": "tsc --noEmit",
     "lint:js": "eslint src --ext .js,.json,.ts,.tsx",
     "prebuild": "yarn gen-flags-components",
+    "prepare": "npm run build",
     "build": "rollup -c",
     "prestart": "yarn gen-flags-components",
     "start": "start-storybook -p 6006",
