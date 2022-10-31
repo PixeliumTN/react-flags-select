@@ -2,6 +2,8 @@
 
 A React library that provides a customizable SVG flags select components and standalone SVG flags components.
 
+## Update
+Added alpha2 codes + flags `pm`,`re` and `yt`
 ## Demo and Example
 
 Live demo: [ekwonye-richard.github.io/react-flags-select/](https://ekwonye-richard.github.io/react-flags-select/?path=/story/reactflagsselect--primary)

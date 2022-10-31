@@ -161,6 +161,7 @@ export const countries: Countries = {
   PY: "Paraguay",
   PE: "Peru",
   PH: "Philippines",
+  PM:"Saint Pierre and Miquelon",
   PN: "Pitcairn",
   PL: "Poland",
   PT: "Portugal",
@@ -176,6 +177,7 @@ export const countries: Countries = {
   ST: "Sao Tome and Principe",
   SA: "Saudi Arabia",
   SN: "Senegal",
+  RE:"Réunion",
   RS: "Serbia",
   SC: "Seychelles",
   SL: "Sierra Leone",
@@ -220,6 +222,7 @@ export const countries: Countries = {
   VN: "Viet Nam",
   VI: "Virgin Islands",
   YE: "Yemen",
+  YT: "Mayotte",
   ZM: "Zambia",
   ZW: "Zimbabwe",
 };
